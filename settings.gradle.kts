@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "kover-sample"
 include(":app")
- 
+include(":feature")
